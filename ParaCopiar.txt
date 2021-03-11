@@ -1,0 +1,19 @@
+
+	public  static double somar( double operando1, double operando2) {
+		return operando1 + operando2;
+	}
+	
+	
+	public  static double subtrair( double operando1, double operando2) {
+		return operando1 - operando2;
+	}
+	
+	public  static double multiplicar( double operando1, double operando2) {
+		return operando1 * operando2;
+	}
+	
+	
+	public  static double dividir( double operando1, double operando2) {
+		return operando1 / operando2;
+	}
+	
